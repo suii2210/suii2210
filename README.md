@@ -15,11 +15,7 @@ Focused on developer tooling, infra, and production-ready web applications.
 <img alt="Timezone" src="https://img.shields.io/badge/Timezone-Asia%2FKolkata-9cf?style=flat"/>
 </p>
 
-<!-- GitHub Stats (cards used by many top profiles) -->
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suii2210&show_icons=true&title_color=2b6cb0&icon_color=2b6cb0&text_color=444444&bg_color=ffffff" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suii2210&layout=compact&title_color=2b6cb0&text_color=444444&bg_color=ffffff" />
-</p>
+
 
 ---
 
