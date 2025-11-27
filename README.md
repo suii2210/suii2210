@@ -6,13 +6,6 @@ B.Tech CSE (2022–26) • Full-Stack Developer (React, Node, TypeScript, MongoD
 Focused on developer tooling, infra, and production-ready web applications.
 </p>
 
-<!-- Quick links & availability -->
-<p>
-<strong>Preparation:</strong> actively preparing for GSoC (2025) &nbsp;•&nbsp; <strong>Availability:</strong> 20–25 hrs/week (Asia/Kolkata)  
-<strong>Portfolio:</strong> https://suiii.dev &nbsp;•&nbsp; <strong>LinkedIn:</strong> https://linkedin.com/in/shruti2210
-</p>
-
----
 
 <!-- Top badges -->
 <p>
@@ -37,7 +30,7 @@ Focused on developer tooling, infra, and production-ready web applications.
 
 ---
 
-## Skills (compact column layout)
+## Skills 
 
 <table>
   <tr>
