@@ -1,4 +1,4 @@
-profile:
+
   name: "Shruti Singh — Full-Stack Web Developer"
   summary: |
     B.Tech CSE (2022–26) • Full-Stack Developer • Open-Source Contributor  
@@ -11,9 +11,9 @@ profile:
     portfolio: "https://suii.dev"
     linkedin: "https://linkedin.com/in/shruti2210"
 
-sections:
 
-  - title: "Skills"
+
+  - "Skills"
     content: |
       ### Frontend  
       <table>
@@ -71,7 +71,7 @@ sections:
         </tr>
       </table>
 
-  - title: "Production & Deployment"
+  - "Production & Deployment"
     content: |
       I manage my deployments end-to-end:
 
@@ -87,7 +87,7 @@ sections:
       <img src="https://img.shields.io/badge/Live%20App-Eventzen-green">  
       https://eventzen.suii.dev
 
-  - title: "Highlighted Projects"
+  - "Highlighted Projects"
     content: |
       ### Recruitment-CRM-Integration-Platform  
       <table>
@@ -120,7 +120,7 @@ sections:
         </tr>
       </table>
 
-  - title: "GSoC & Open-Source Readiness"
+  - "GSoC & Open-Source Readiness"
     content: |
       - Strong with GitHub workflows: issues → branch → PR → review → merge  
       - Make small, review-friendly contributions (docs, tests, bugfixes)  
@@ -128,13 +128,13 @@ sections:
       - Clear communication and quick responses to feedback  
       - Experience working with large open-source codebases
 
-  - title: "What I Look for in Mentors"
+  - "What I Look for in Mentors"
     content: |
       - Clear starter issues  
       - Constructive feedback loops  
       - Repositories that use labels like `good-first-issue` and `help-wanted`
 
-  - title: "Contact"
+  - "Contact"
     content: |
       **Portfolio:** https://suii.dev  
       **LinkedIn:** https://linkedin.com/in/shruti2210
