@@ -1,5 +1,5 @@
 
-<h1 align="left">Shruti Singh — Full-Stack Web Developer</h1>
+<h1 align="left">Shruti Singh - Full-Stack Web Developer</h1>
 
 <p align="left">
 B.Tech CSE (2022–26) • Full-Stack Developer (React, Node, TypeScript, MongoDB) • Open-Source Contributor  
