@@ -1,13 +1,7 @@
 <h1 align="left">Shruti Singh : Full-Stack Web Developer</h1>
 
-B.Tech CSE (2022–26) • React • Node • TypeScript • MongoDB  
+B.Tech CSE (2022–26) 
 Focused on developer tooling, infrastructure, and production-ready applications.
-
-<p>
-<img src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20TS-blue?style=flat"/>
-<img src="https://img.shields.io/badge/GSoC-Preparing-orange?style=flat"/>
-<img src="https://img.shields.io/badge/Timezone-Asia%2FKolkata-lightgrey?style=flat"/>
-</p>
 
 ---
 
