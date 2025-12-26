@@ -1,16 +1,6 @@
-<h1 align="left">Shruti Singh : Full-Stack Web Developer</h1>
+<h1 align="left">Shruti Singh </h1>
 
-B.Tech CSE (2022–26) 
-Focused on developer tooling, infrastructure, and production-ready applications.
 
----
-
-## Core Summary
-- Full-Stack: React (Vite/Next), TypeScript, Node.js, MongoDB  
-- DevOps: AWS EC2 (Ubuntu), Nginx, PM2, Let’s Encrypt, GitHub Actions  
-- Focus: developer tooling, infra, testing, production deployments
-
----
 
 ## Skills
 
