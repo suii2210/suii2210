@@ -1,6 +1,3 @@
-<h1 align="left">Shruti Singh </h1>
-
-
 
 ## Skills
 
